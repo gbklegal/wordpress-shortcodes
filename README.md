@@ -1,6 +1,6 @@
 # Shortcodes
 
-Shortcodes for WordPress
+Shortcodes for WordPress. Further details and documentations for each shortcode can be found at [Confluence](https://gbk.atlassian.net/wiki/spaces/DEV/pages/326991873/Shortcodes).
 
 -   [Directory structure](#directory-structure)
 -   [functions.php](#functionsphp)

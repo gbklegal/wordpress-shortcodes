@@ -1,0 +1,24 @@
+/* [download_image] Shortcode */
+.download-image-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.download-image-container figure.image-container img:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.download-image-container figure.image-container figcaption {
+    margin-top: 1rem;
+    font-style: italic;
+}
+
+.download-image-container .image-details {
+    display: grid;
+    grid-template-columns: repeat(2, 100fr);
+}
+
+.download-image-container .image-details div:nth-child(odd) {
+    font-weight: bold;
+}
